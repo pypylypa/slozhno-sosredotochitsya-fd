@@ -23,7 +23,6 @@
 @media (prefers-color-scheme: light) {
   :root {
     --color-bg: #fff1f7;
-    --color-main: #000028;
     --color-text: #353430;
     --accent-color: #ff8dcb;
     --color-border-hover: #32312d66;
