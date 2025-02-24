@@ -97,7 +97,6 @@ a:focus-visible {
   font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   line-height: 83%;
   padding-top: 13px;
-  padding-left: 10px;
   grid-row: 3;
   text-transform: lowercase;
   color: var(--h1-color);
@@ -415,7 +414,7 @@ h2.title-decor {
   }
 
   .title {
-    padding-top: 20.5vh;
+    padding-top: 21.5vh;
     grid-column: 1 / 4;
     grid-row: 2;
   }
