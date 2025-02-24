@@ -62,7 +62,7 @@ a:focus-visible {
   width: 25px;
   height: 25px;
   top: 10px;
-  right: 13px;
+  right: 10px;
   border-top: 1px solid var(--color-decor);
   border-right: 1px solid var(--color-decor);
 }
@@ -192,7 +192,7 @@ h2.title-decor {
   font-size: var(--font-size-base);
   line-height: 100%;
   color: var(--color-decor);
-  min-width: 4.0em;
+  min-width: 3.9em;
   min-height: 1.4em;
   cursor: pointer;
 }
