@@ -312,8 +312,7 @@ h2.title-decor {
     flex-direction: column;
     grid-column: 1 / 4;
     padding-top: 0;
-    gap: 20px;
-    padding-bottom: 0;
+    padding-bottom: 20px;
   }
 
   .section__no-block .section__card {
@@ -434,6 +433,8 @@ h2.title-decor {
   .section__no-block .block__article {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    padding-bottom: 0;
+    gap: 20px;
   }
 
   .section__no-block .block__article .section__card:nth-child(1) {
