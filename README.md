@@ -1,1 +1,1 @@
-https://github.com/pypylypa/slozhno-sosredotochitsya-fd
+https://github.com/pypylypa/slozhno-sosredotochitsya-fd 
