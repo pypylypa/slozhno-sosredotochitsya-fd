@@ -148,9 +148,9 @@ h2.title-decor {
 
 .gallery-box {
   display: grid;
+  line-height: 0;
   gap: 5px;
   padding-top: 10px;
-  min-block-size: calc(100vh - 4.5em);
 }
 
 .gallery__item {
@@ -161,7 +161,7 @@ h2.title-decor {
   object-fit: cover;
   object-position: center;
   inline-size: 100%;
-  max-block-size: 100%;
+  block-size: 100%;
 }
 
 .footer {
@@ -312,7 +312,7 @@ h2.title-decor {
     flex-direction: column;
     grid-column: 1 / 4;
     padding-top: 0;
-    padding-bottom: 20px;
+    gap: 20px;
   }
 
   .section__no-block .section__card {
@@ -334,10 +334,6 @@ h2.title-decor {
     grid-template-rows: repeat(3, minmax(min-content, max-content));
     gap: 20px;
     min-block-size: 100%;
-  }
-
-  .gallery__item {
-    min-block-size: 4.3em;
   }
 
   .gallery__image {
