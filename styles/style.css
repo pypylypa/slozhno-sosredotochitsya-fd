@@ -315,11 +315,6 @@ h2.title-decor {
     padding-bottom: 20px;
   }
 
-  .section__no-block .section__card {
-    padding-left: 10px;
-    padding-right: 11px;
-  }
-
   .section__gallery .section__card {
     grid-column: 1 / 4;
     padding: 39px 12px 46px 8px;
@@ -433,7 +428,7 @@ h2.title-decor {
   .section__no-block .block__article {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding-bottom: 0;
+    padding-bottom: 20px;
     gap: 20px;
   }
 
@@ -447,10 +442,6 @@ h2.title-decor {
 
   .section__no-block .block__article .section__card:nth-child(3) {
     grid-column: 3;
-  }
-
-  .section__no-block .section__card {
-    padding-left: 10px;
   }
 
   .footer {
