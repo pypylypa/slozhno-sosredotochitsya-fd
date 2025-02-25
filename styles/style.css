@@ -313,6 +313,7 @@ h2.title-decor {
     grid-column: 1 / 4;
     padding-top: 0;
     gap: 20px;
+    padding-bottom: 0;
   }
 
   .section__no-block .section__card {
