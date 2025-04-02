@@ -317,9 +317,6 @@ h2.title-decor {
       padding-left: 10px;
   }
 
-  .section__no-block .section__card {
-  }
-
   .section__gallery .section__card {
       grid-column: 1 / 4;
       padding: 40px 12px 46px 8px;
@@ -452,10 +449,7 @@ h2.title-decor {
   .section__no-block .block__article .section__card:nth-child(3) {
       grid-column: 3;
   }
-
-  .section__no-block .section__card {
-  }
-
+  
   .footer {
       padding: 0;
   }
