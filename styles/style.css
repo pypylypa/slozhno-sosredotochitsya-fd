@@ -104,7 +104,7 @@ a:focus-visible {
 
 .title-decor {
   background-color: var(--accent-color);
-  color: var(--h3-color);
+  color: var(--color-text);
 }
 
 h2.title-decor {
@@ -138,7 +138,7 @@ h2.title-decor {
 }
 
 .section__gallery {
-  padding-bottom: 15px;
+  padding-bottom: 4px;
 }
 
 .card__content {
@@ -190,7 +190,7 @@ h2.title-decor {
   font-weight: var(--font-weight-normal);
   font-size: var(--font-size-base);
   line-height: 100%;
-  color: var(--color-decor);
+  color: var(--color-text);
   min-width: 3.9em;
   min-height: 1.4em;
   cursor: pointer;
@@ -449,7 +449,7 @@ h2.title-decor {
   .section__no-block .block__article .section__card:nth-child(3) {
       grid-column: 3;
   }
-  
+
   .footer {
       padding: 0;
   }

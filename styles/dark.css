@@ -10,8 +10,9 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --color-bg: #000028;
-  --color-main: #000028;
+  --color-main: #000;
   --color-text: #f1b2ce;
+  
   --accent-color: #ff0070;
   --color-border-hover: #ff007066;
   --h3-color: #ff0070;

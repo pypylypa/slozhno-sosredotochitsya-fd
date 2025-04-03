@@ -10,8 +10,8 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --color-bg: #fff1f7;
-  --color-main: #000028;
   --color-text: #353430;
+  
   --accent-color: #ff8dcb;
   --color-border-hover: #32312d66;
   --h3-color: #353430;
@@ -23,13 +23,14 @@
 @media (prefers-color-scheme: light) {
   :root {
     --color-bg: #fff1f7;
+    --color-main: #000;
     --color-text: #353430;
-    --color-main: #000028;
-    --accent-color: #ff8dcb;
+    
     --color-border-hover: #32312d66;
     --h3-color: #353430;
     --h1-color: #ffc2e6;
     --color-decor: #000028;
+    --accent-color: #ff8dcb;
     --bg-image: url(../images/cover-image-light.png);
   }
 
