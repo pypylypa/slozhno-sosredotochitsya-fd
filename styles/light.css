@@ -11,7 +11,8 @@
   */
   --color-bg: #fff1f7;
   --color-text: #353430;
-  
+  --accent-text-color: #000;
+  --title-color: #353430;
   --accent-color: #ff8dcb;
   --color-border-hover: #32312d66;
   --h3-color: #353430;
@@ -25,7 +26,8 @@
     --color-bg: #fff1f7;
     --color-main: #000;
     --color-text: #353430;
-    
+    --accent-text-color: #000;
+    --title-color: #353430;
     --color-border-hover: #32312d66;
     --h3-color: #353430;
     --h1-color: #ffc2e6;
